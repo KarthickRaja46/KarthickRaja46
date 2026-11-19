@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./cards/hero.svg" width="100%" alt="Karthick Raja, Data Analyst and Power BI Developer. SQL, Python, DAX, Power BI, ETL pipelines. Open to Data Analyst roles, Dubai, UAE." />
+<img src="./cards/hero.svg" width="100%" alt="Karthick Raja, Data Analyst and Power BI Developer. SQL, Python, DAX, Power BI, ETL pipelines." />
 
 <img src="./cards/heatmap.svg" width="100%" alt="My GitHub contribution graph for the last year" />
 

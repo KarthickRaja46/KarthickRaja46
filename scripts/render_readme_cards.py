@@ -3,7 +3,7 @@
 Reads data/contributions.json (refreshed daily by the GitHub Action) and
 data/portrait.txt, embeds subset fonts as base64 WOFF, and writes:
 
-  cards/hero.svg       name, role, status + ASCII portrait that prints in
+  cards/hero.svg       name, role, stack + ASCII portrait that prints in
   cards/heatmap.svg    contribution graph in brand blue
   cards/activity.svg   contributions per month + streak stats
   cards/tile-*.svg     three linked stat tiles (count-up, swing-in, shine)
@@ -38,10 +38,8 @@ USER = os.environ.get("GH_USER", "KarthickRaja46")
 PROFILE = {
     "first": "Karthick",
     "last": "Raja",
-    "greeting": "> hello, world. i'm",
     "role": "Data Analyst & Power BI Developer",
     "stack": "SQL · Python · DAX · Power BI · ETL pipelines",
-    "status": "Open to Data Analyst roles · Dubai, UAE",
 }
 
 TILES = [  # (slug, label, accent, value, format, caption)
@@ -259,17 +257,10 @@ def hero() -> str:
 </defs>
 {frame(W, H)}
 <rect x="1" y="1" width="{W - 2}" height="{H - 2}" rx="16" fill="url(#glow)"/>
-<text x="48" y="66" class="m4 a" font-size="14" fill="{C['muted']}" {anim('rise', 0.05, 0.6)}>{escape(p['greeting'])}<tspan fill="{C['blue']}" {anim('blink', 0, 1.1, 'infinite step-end')}> _</tspan></text>
-<text x="44" y="134" class="g7 a" font-size="66" fill="{C['ink']}" letter-spacing="-1.5" {anim('rise', 0.2, 0.8)}>{escape(p['first'])}</text>
-<text x="44" y="202" class="g7 a shine-text" font-size="66" fill="url(#shine)" letter-spacing="-1.5" {anim('rise', 0.4, 0.8)}>{escape(p['last'])}</text>
-<text x="48" y="244" class="g5 a" font-size="20" fill="{C['ink']}" {anim('rise', 0.6, 0.7)}>{escape(p['role'])}</text>
-<text x="48" y="270" class="m4 a" font-size="12.5" fill="{C['muted']}" {anim('rise', 0.75, 0.7)}>{escape(p['stack'])}</text>
-<g class="a" {anim('rise', 0.9, 0.7)}>
- <rect x="48" y="286" width="{len(p['status']) * 7.25 + 42:.0f}" height="26" rx="13" fill="{C['panel']}" stroke="{C['line']}"/>
- <circle cx="63" cy="299" r="4" fill="{C['teal']}"/>
- <circle class="fb pulse-fx" cx="63" cy="299" r="4" fill="none" stroke="{C['teal']}" stroke-width="1.5" style="animation:pulse 1.8s 1.2s infinite ease-out"/>
- <text x="76" y="303.5" class="m4" font-size="12" fill="{C['ink']}">{escape(p['status'])}</text>
-</g>
+<text x="44" y="120" class="g7 a" font-size="66" fill="{C['ink']}" letter-spacing="-1.5" {anim('rise', 0.1, 0.8)}>{escape(p['first'])}</text>
+<text x="44" y="188" class="g7 a shine-text" font-size="66" fill="url(#shine)" letter-spacing="-1.5" {anim('rise', 0.3, 0.8)}>{escape(p['last'])}</text>
+<text x="48" y="234" class="g5 a" font-size="20" fill="{C['ink']}" {anim('rise', 0.5, 0.7)}>{escape(p['role'])}</text>
+<text x="48" y="262" class="m4 a" font-size="12.5" fill="{C['muted']}" {anim('rise', 0.65, 0.7)}>{escape(p['stack'])}</text>
 <g class="a" {anim('fade', 0.3, 0.6)}>
  <rect x="{wx}" y="{wy}" width="{ww}" height="{wh}" rx="10" fill="{C['panel']}" stroke="{C['line']}"/>
  <path d="M{wx} {wy + 28}h{ww}" stroke="{C['line']}"/>
