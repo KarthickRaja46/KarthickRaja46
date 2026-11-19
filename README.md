@@ -1,26 +1,40 @@
 <div align="center">
 
-<img src="./cards/hero.svg" width="100%" alt="Karthick Raja, Data Analyst and Power BI Developer. SQL, Python, DAX, Power BI, ETL pipelines." />
+<a href="https://karthickraja.page"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/hero.svg"><img src="./cards/hero.svg" width="100%" alt="Karthick Raja, Data Analyst and BI Analyst. SQL, Python, DAX, Power BI, ETL pipelines. Visit my portfolio." /></picture></a>
 
-<img src="./cards/heatmap.svg" width="100%" alt="My GitHub contribution graph for the last year" />
+<picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/heatmap.svg"><img src="./cards/heatmap.svg" width="100%" alt="My GitHub contribution graph for the last year" /></picture>
 
-<img src="./cards/activity.svg" width="100%" alt="Contributions per month, current and longest streak, active days and busiest day" />
+<picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/activity.svg"><img src="./cards/activity.svg" width="100%" alt="Contributions per month, current and longest streak, active days and busiest day" /></picture>
 
-<a href="https://github.com/KarthickRaja46/API-Performance-Monitoring-Analytics"><img src="./cards/tile-sql.svg" width="32.5%" alt="SQL: 40+ queries for KPI reporting, latency analysis and alerting" /></a>
-<a href="https://github.com/KarthickRaja46/Business-Performance-Customer-Intelligence"><img src="./cards/tile-powerbi.svg" width="32.5%" alt="Power BI: $2.3M in sales analysed across 5-page dashboards" /></a>
-<a href="https://github.com/KarthickRaja46?tab=repositories&language=python"><img src="./cards/tile-python.svg" width="32.5%" alt="Python: 100K+ records through validated ETL pipelines" /></a>
+<a href="https://github.com/KarthickRaja46/API-Performance-Monitoring-Analytics"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/tile-sql.svg"><img src="./cards/tile-sql.svg" width="32.5%" alt="SQL: 40+ queries for KPI reporting, latency analysis and alerting" /></picture></a>
+<a href="https://github.com/KarthickRaja46/Business-Performance-Customer-Intelligence"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/tile-powerbi.svg"><img src="./cards/tile-powerbi.svg" width="32.5%" alt="Power BI: $2.3M in sales analysed across 5-page dashboards" /></picture></a>
+<a href="https://github.com/KarthickRaja46?tab=repositories&language=python"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/tile-python.svg"><img src="./cards/tile-python.svg" width="32.5%" alt="Python: 100K+ records through validated ETL pipelines" /></picture></a>
 
-<a href="https://github.com/KarthickRaja46/API-Performance-Monitoring-Analytics"><img src="./cards/repo-1.svg" width="49%" alt="API-Performance-Monitoring-Analytics" /></a>
-<a href="https://github.com/KarthickRaja46/Business-Performance-Customer-Intelligence"><img src="./cards/repo-2.svg" width="49%" alt="Business-Performance-Customer-Intelligence" /></a>
-<a href="https://github.com/KarthickRaja46/Banking-Performance-Analytics"><img src="./cards/repo-3.svg" width="49%" alt="Banking-Performance-Analytics" /></a>
-<a href="https://github.com/KarthickRaja46/Real-Estate-Price-Prediction"><img src="./cards/repo-4.svg" width="49%" alt="Real-Estate-Price-Prediction" /></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/sec-dashboards.svg"><img src="./cards/sec-dashboards.svg" width="100%" alt="Power BI dashboards" /></picture>
 
-<br/><br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTNjNzZiNGItYjM3Zi00NDNjLWFhODMtNjNiZjlkMWI4NjQ4IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/dash-volt.svg"><img src="./cards/dash-volt.svg" width="32.5%" alt="VOLT IQ industrial IoT dashboard (live)" /></picture></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMWQxMzFjYTAtZjkxMi00YzViLTg2NTktMGI5Y2YzNWRkNDBkIiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/dash-claim.svg"><img src="./cards/dash-claim.svg" width="32.5%" alt="ClaimVision healthcare claims dashboard (live)" /></picture></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjg1MTcwZjktZTViMy00OTU3LTgyMTctNGIzNTRhNWYwYWM1IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/dash-bank.svg"><img src="./cards/dash-bank.svg" width="32.5%" alt="Banking performance dashboard (live)" /></picture></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzlhM2FhNDktZWI5Yi00MGU4LThkMTAtNGFlNzY4YjIyMGM5IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/dash-api.svg"><img src="./cards/dash-api.svg" width="32.5%" alt="API performance monitoring dashboard (live)" /></picture></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjRmN2U0OTUtZTJmZi00ZjhhLTkxZmEtOGI3MzRmN2QxZTE3IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/dash-retail.svg"><img src="./cards/dash-retail.svg" width="32.5%" alt="Retail profit insights dashboard (live)" /></picture></a>
+<a href="https://github.com/KarthickRaja46/Business-Performance-Customer-Intelligence"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/dash-biz.svg"><img src="./cards/dash-biz.svg" width="32.5%" alt="Business performance and customer intelligence dashboard" /></picture></a>
 
-<a href="https://linkedin.com/in/karthick-raja/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:karthiikarthii46@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://karthickraja.com">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://github.com/KarthickRaja46?tab=repositories">All repositories</a>
+<picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/report.svg"><img src="./cards/report.svg" width="100%" alt="GitHub analytics report: repositories by tool, live dashboards, contributions by weekday" /></picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/sec-projects.svg"><img src="./cards/sec-projects.svg" width="100%" alt="Python, ML and tools projects" /></picture>
+
+<a href="https://github.com/KarthickRaja46/Real-Estate-Price-Prediction"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/repo-1.svg"><img src="./cards/repo-1.svg" width="49%" alt="Real-Estate-Price-Prediction" /></picture></a>
+<a href="https://github.com/KarthickRaja46/Bird-Species-Audio-Classification"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/repo-2.svg"><img src="./cards/repo-2.svg" width="49%" alt="Bird-Species-Audio-Classification" /></picture></a>
+<a href="https://github.com/KarthickRaja46/Investment-Portfolio-Analytics"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/repo-3.svg"><img src="./cards/repo-3.svg" width="49%" alt="Investment-Portfolio-Analytics" /></picture></a>
+<a href="https://github.com/KarthickRaja46/Data-Analyst-Job-Tracker"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/repo-4.svg"><img src="./cards/repo-4.svg" width="49%" alt="Data-Analyst-Job-Tracker" /></picture></a>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/stack.svg"><img src="./cards/stack.svg" width="100%" alt="Toolkit: SQL, MySQL, Power Query, Power BI, DAX, Excel, Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Git, GitHub, Azure Blob" /></picture>
+
+<a href="https://linkedin.com/in/karthick-raja/"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/contact.svg"><img src="./cards/contact.svg" width="100%" alt="Let's turn your data into decisions. Reach out on LinkedIn or by email." /></picture></a>
+
+<a href="https://linkedin.com/in/karthick-raja/"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/btn-linkedin.svg"><img src="./cards/btn-linkedin.svg" width="32.5%" alt="LinkedIn" /></picture></a>
+<a href="mailto:karthiikarthii46@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/btn-email.svg"><img src="./cards/btn-email.svg" width="32.5%" alt="Email" /></picture></a>
+<a href="https://karthickraja.page"><picture><source media="(prefers-color-scheme: light)" srcset="./cards/light/btn-portfolio.svg"><img src="./cards/btn-portfolio.svg" width="32.5%" alt="Portfolio" /></picture></a>
 
 </div>
 
@@ -37,8 +51,6 @@
 - Automated repetitive reporting workflows in Python, improving efficiency by **40%**
 
 **B.E. Computer Science & Engineering**, Hindusthan Institute of Technology, Coimbatore · Apr 2026
-
-**Stack:** SQL · MySQL · Power BI · DAX · Power Query · Excel · Python · Pandas · NumPy · Matplotlib · Seaborn · Streamlit · Git
 
 </details>
 

@@ -10,6 +10,8 @@ on:
       - "scripts/**"
       - "fonts/**"
       - "data/portrait.txt"
+      - "data/dashboards.json"
+      - "data/thumbs/**"
       - ".github/workflows/readme-cards.yml"
 
 permissions:
@@ -35,7 +37,7 @@ jobs:
       - name: Fetch contribution calendar
         run: python scripts/fetch_contributions.py "${{ github.repository_owner }}"
 
-      - name: Render README cards (hero, graph, activity, tiles, repos)
+      - name: Render README cards (dark + light)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
@@ -45,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/contributions.json cards
+          git add data cards
           if git diff --cached --quiet; then
             echo "Cards unchanged."
           else

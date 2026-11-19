@@ -13,7 +13,7 @@ from pathlib import Path
 from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
-COLS, ROWS = 56, 30  # glyphs are ~2x taller than wide
+COLS, ROWS = 70, 38  # glyphs are ~2x taller than wide
 RAMP = " .:-=+*#%@"
 
 

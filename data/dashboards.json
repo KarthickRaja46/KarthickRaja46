@@ -1,0 +1,20 @@
+[
+ {"slug": "volt", "title": "VOLT IQ", "tag": "Industrial IoT", "caption": "100K+ sensor records · 50 machines",
+  "repo": "VOLT-IQ-Industrial-IoT-Analytics", "image": "screenshots/02_Executive_Command_Center.png",
+  "live": "https://app.powerbi.com/view?r=eyJrIjoiZTNjNzZiNGItYjM3Zi00NDNjLWFhODMtNjNiZjlkMWI4NjQ4IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"},
+ {"slug": "claim", "title": "ClaimVision", "tag": "Healthcare", "caption": "20K claims · 6-page claims intelligence",
+  "repo": "ClaimVision-Healthcare-Analytics", "image": "assets/page_previews/page_2.png",
+  "live": "https://app.powerbi.com/view?r=eyJrIjoiMWQxMzFjYTAtZjkxMi00YzViLTg2NTktMGI5Y2YzNWRkNDBkIiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"},
+ {"slug": "bank", "title": "Banking Performance", "tag": "Finance", "caption": "150K transactions · fees, tax & failures",
+  "repo": "Banking-Performance-Analytics", "image": "assets/overview_dashboard.png",
+  "live": "https://app.powerbi.com/view?r=eyJrIjoiMjg1MTcwZjktZTViMy00OTU3LTgyMTctNGIzNTRhNWYwYWM1IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"},
+ {"slug": "api", "title": "API Monitoring", "tag": "Ops & SLA", "caption": "417K requests · P95/P99 latency & SLA",
+  "repo": "API-Performance-Monitoring-Analytics", "image": "docs/images/dashboard_page_01.png",
+  "live": "https://app.powerbi.com/view?r=eyJrIjoiYzlhM2FhNDktZWI5Yi00MGU4LThkMTAtNGFlNzY4YjIyMGM5IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"},
+ {"slug": "retail", "title": "Retail Profit Insights", "tag": "Retail", "caption": "798K sales · 4 years · margin leakage",
+  "repo": "Retail-Analytics-Profit-Insights", "image": "assets/dashboard_page_1.png",
+  "live": "https://app.powerbi.com/view?r=eyJrIjoiMjRmN2U0OTUtZTJmZi00ZjhhLTkxZmEtOGI3MzRmN2QxZTE3IiwidCI6IjNjYjM3ODQ0LTAxZGEtNGJlYS04MDEwLTBmYjFmNWExZWM0ZSJ9"},
+ {"slug": "biz", "title": "Business Performance", "tag": "Sales & CX", "caption": "$2.3M sales · CLV & retention cohorts",
+  "repo": "Business-Performance-Customer-Intelligence", "image": "assets/dashboard_page_1.png",
+  "live": ""}
+]
