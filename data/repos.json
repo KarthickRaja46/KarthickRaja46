@@ -1,83 +1,43 @@
 [
  {
-  "name": "job-ops",
-  "description": null,
+  "name": "API-Performance-Monitoring-Analytics",
+  "description": "End-to-end ETL pipeline for database performance monitoring with SQL analytics, SLA compliance tracking, and P95/P99 latency insights",
+  "stars": 1,
+  "language": "Python",
+  "tool": "Python",
+  "pushed_at": "2026-05-28T11:51:06Z"
+ },
+ {
+  "name": "ATS-Resume-Analyzer",
+  "description": "Personal portfolio website showcasing my journey as a Data Analyst, featuring projects in Python, SQL, and Power BI, along with dashboards, skills, and resume.",
   "stars": 0,
-  "language": "Python",
-  "tool": "Python",
-  "pushed_at": ""
- },
- {
-  "name": "RakSpecial",
-  "description": "Free RAK Bank (RAKBANK) cheque printing software for Windows: amount in words in AED with fils, PDC series, cheque register and analytics. UAE. - KarthickRaja46/RakSpecial",
-  "stars": 1,
-  "language": "C#",
-  "tool": "C#",
-  "pushed_at": ""
- },
- {
-  "name": "KarthickRaja-Portfolio",
-  "description": "Personal portfolio website of Karthick Raja showcasing projects, skills, and resume. - KarthickRaja46/KarthickRaja-Portfolio",
-  "stars": 1,
-  "language": "Python",
-  "tool": "Python",
-  "pushed_at": ""
- },
- {
-  "name": "UAE-Real-Estate-Analytics-PowerBI",
-  "description": null,
-  "stars": 0,
-  "language": null,
-  "tool": "Power BI",
-  "pushed_at": ""
- },
- {
-  "name": "Real-Estate-Price-Prediction",
-  "description": "This project predicts real estate prices using machine learning, analyzing factors like location, size, and trends. It uses data preprocessing, feature selection, and models like Linear Regression and Random Forests. With clean datasets and documentation, it\u2019s ideal for ML learners. - KarthickRaja46/Real-Estate-Price-Prediction",
-  "stars": 1,
-  "language": "Python",
-  "tool": "Python",
-  "pushed_at": ""
- },
- {
-  "name": "Bird-Species-Audio-Classification",
-  "description": "AI-powered Bird Species Identification system using TensorFlow and Librosa to classify bird sounds based on MFCC audio features, with an interactive Streamlit dashboard. - KarthickRaja46/Bird-Species-Audio-Classification",
-  "stars": 1,
-  "language": "Python",
-  "tool": "Python",
-  "pushed_at": ""
- },
- {
-  "name": "Investment-Portfolio-Analytics",
-  "description": "Excel dashboard for stock portfolio analysis with performance tracking and interactive data visualization - KarthickRaja46/Investment-Portfolio-Analytics",
-  "stars": 1,
-  "language": null,
-  "tool": "Excel",
-  "pushed_at": ""
- },
- {
-  "name": "Business-Performance-Customer-Intelligence",
-  "description": "Customer intelligence and business performance dashboard built to uncover trends, improve decision-making, and drive growth. - KarthickRaja46/Business-Performance-Customer-Intelligence",
-  "stars": 0,
-  "language": null,
-  "tool": "Power BI",
-  "pushed_at": ""
+  "language": "TypeScript",
+  "tool": "TypeScript",
+  "pushed_at": "2026-04-16T15:39:40Z"
  },
  {
   "name": "Banking-Performance-Analytics",
-  "description": "Banking analytics dashboard providing insights into customer behavior, financial performance, and operational efficiency. - KarthickRaja46/Banking-Performance-Analytics",
+  "description": "Banking analytics dashboard providing insights into customer behavior, financial performance, and operational efficiency.",
   "stars": 0,
   "language": null,
   "tool": "Power BI",
-  "pushed_at": ""
+  "pushed_at": "2026-05-31T11:34:39Z"
  },
  {
-  "name": "VOLT-IQ-Industrial-IoT-Analytics",
-  "description": "Smart IoT analytics platform leveraging machine intelligence for predictive maintenance and industrial performance monitoring. - KarthickRaja46/VOLT-IQ-Industrial-IoT-Analytics",
+  "name": "Bird-Species-Audio-Classification",
+  "description": "AI-powered Bird Species Identification system using TensorFlow and Librosa to classify bird sounds based on MFCC audio features, with an interactive Streamlit dashboard.",
+  "stars": 1,
+  "language": "Python",
+  "tool": "Python",
+  "pushed_at": "2026-03-21T22:16:47Z"
+ },
+ {
+  "name": "Business-Performance-Customer-Intelligence",
+  "description": "Customer intelligence and business performance dashboard built to uncover trends, improve decision-making, and drive growth.",
   "stars": 0,
   "language": null,
   "tool": "Power BI",
-  "pushed_at": ""
+  "pushed_at": "2026-05-28T12:29:31Z"
  },
  {
   "name": "ClaimVision-Healthcare-Analytics",
@@ -85,7 +45,7 @@
   "stars": 0,
   "language": null,
   "tool": "Power BI",
-  "pushed_at": ""
+  "pushed_at": "2026-06-27T14:53:44Z"
  },
  {
   "name": "Data-Analyst-Job-Tracker",
@@ -93,47 +53,7 @@
   "stars": 0,
   "language": "JavaScript",
   "tool": "JavaScript",
-  "pushed_at": ""
- },
- {
-  "name": "Retail-Analytics-Profit-Insights",
-  "description": null,
-  "stars": 0,
-  "language": null,
-  "tool": "Power BI",
-  "pushed_at": ""
- },
- {
-  "name": "API-Performance-Monitoring-Analytics",
-  "description": "End-to-end ETL pipeline for database performance monitoring with SQL analytics, SLA compliance tracking, and P95/P99 latency insights - KarthickRaja46/API-Performance-Monitoring-Analytics",
-  "stars": 1,
-  "language": "Python",
-  "tool": "Python",
-  "pushed_at": ""
- },
- {
-  "name": "Tamil-song",
-  "description": null,
-  "stars": 0,
-  "language": "PowerShell",
-  "tool": "PowerShell",
-  "pushed_at": ""
- },
- {
-  "name": "ATS-Resume-Analyzer",
-  "description": "Personal portfolio website showcasing my journey as a Data Analyst, featuring projects in Python, SQL, and Power BI, along with dashboards, skills, and resume. - KarthickRaja46/ATS-Resume-Analyzer",
-  "stars": 0,
-  "language": "TypeScript",
-  "tool": "TypeScript",
-  "pushed_at": ""
- },
- {
-  "name": "Headphone-Landing-page-UI",
-  "description": null,
-  "stars": 2,
-  "language": "HTML",
-  "tool": "HTML",
-  "pushed_at": ""
+  "pushed_at": "2026-07-14T20:35:21Z"
  },
  {
   "name": "Ecommerce-easyshop",
@@ -141,6 +61,86 @@
   "stars": 0,
   "language": "HTML",
   "tool": "HTML",
-  "pushed_at": ""
+  "pushed_at": "2024-08-10T17:25:56Z"
+ },
+ {
+  "name": "Headphone-Landing-page-UI",
+  "description": null,
+  "stars": 2,
+  "language": "HTML",
+  "tool": "HTML",
+  "pushed_at": "2024-08-10T17:45:36Z"
+ },
+ {
+  "name": "Investment-Portfolio-Analytics",
+  "description": "Excel dashboard for stock portfolio analysis with performance tracking and interactive data visualization",
+  "stars": 1,
+  "language": null,
+  "tool": "Excel",
+  "pushed_at": "2026-03-24T08:57:18Z"
+ },
+ {
+  "name": "job-ops",
+  "description": null,
+  "stars": 0,
+  "language": "Python",
+  "tool": "Python",
+  "pushed_at": "2026-11-18T07:45:25Z"
+ },
+ {
+  "name": "KarthickRaja-Portfolio",
+  "description": "Personal portfolio website of Karthick Raja showcasing projects, skills, and resume.",
+  "stars": 1,
+  "language": "Python",
+  "tool": "Python",
+  "pushed_at": "2026-11-17T14:01:13Z"
+ },
+ {
+  "name": "RakSpecial",
+  "description": "Free RAK Bank (RAKBANK) cheque printing software for Windows: amount in words in AED with fils, PDC series, cheque register and analytics. UAE.",
+  "stars": 1,
+  "language": "C#",
+  "tool": "C#",
+  "pushed_at": "2026-11-19T06:57:41Z"
+ },
+ {
+  "name": "Real-Estate-Price-Prediction",
+  "description": "This project predicts real estate prices using machine learning, analyzing factors like location, size, and trends. It uses data preprocessing, feature selection, and models like Linear Regression and Random Forests. With clean datasets and documentation, it\u2019s ideal for ML learners.",
+  "stars": 1,
+  "language": "Python",
+  "tool": "Python",
+  "pushed_at": "2024-11-24T06:59:46Z"
+ },
+ {
+  "name": "Retail-Analytics-Profit-Insights",
+  "description": null,
+  "stars": 0,
+  "language": null,
+  "tool": "Power BI",
+  "pushed_at": "2026-05-28T13:02:21Z"
+ },
+ {
+  "name": "Tamil-song",
+  "description": null,
+  "stars": 0,
+  "language": "PowerShell",
+  "tool": "PowerShell",
+  "pushed_at": "2026-04-28T10:37:07Z"
+ },
+ {
+  "name": "UAE-Real-Estate-Analytics-PowerBI",
+  "description": null,
+  "stars": 0,
+  "language": null,
+  "tool": "Power BI",
+  "pushed_at": "2026-09-27T13:22:17Z"
+ },
+ {
+  "name": "VOLT-IQ-Industrial-IoT-Analytics",
+  "description": "Smart IoT analytics platform leveraging machine intelligence for predictive maintenance and industrial performance monitoring.",
+  "stars": 0,
+  "language": null,
+  "tool": "Power BI",
+  "pushed_at": "2026-06-11T12:13:50Z"
  }
 ]
